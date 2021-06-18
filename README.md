@@ -1,2 +1,2 @@
 # Leonidas-esteban-projects
-Proyectos de LeonidasEsteban.com
+Proyectos de https://leonidasesteban.com/proyectos
